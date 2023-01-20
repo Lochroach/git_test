@@ -1,4 +1,3 @@
 # git_test
 Hello Odin!
-Up down up down left right left right B A start
-Konami Code
+An .md file is a simple text file and stands for markdown
